@@ -1,0 +1,11 @@
+﻿<?xml version="1.0"?>
+<info>
+	<id>files_gdocs_viewer</id>
+	<name>gDocs Viewer (.gsheet, .gdoc, .gslides)</name>
+	<description>gDocs Viewer for ownCloud 7, 8.
+	Open .gsheet, .gdoc etc. files from Google Docs in a new window. Used some Code from https://github.com/Frank1604/files_gpxviewer_extended.</description>
+	<version>1.0</version>
+	<licence>CC BY-NC</licence>
+	<author>Leon Weickert</author>
+	<require>7.0.3</require>
+</info>
