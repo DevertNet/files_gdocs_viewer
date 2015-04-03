@@ -3,7 +3,7 @@ gDocs Viewer (.gsheet, .gdoc, .gslides) for OwnCloud v 7.x, 8.x
 
 Open .gsheet, .gdoc, .gslides files from Google Docs in a new window. 
 
-This app used the base code and the test below from https://github.com/Frank1604/files_gpxviewer_extended
+This app used the base code and the text below from https://github.com/Frank1604/files_gpxviewer_extended
 
 ==================================
 
