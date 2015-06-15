@@ -41,7 +41,15 @@ Normal-Installation:
 - Unzip
 - Rename the Folder to `files_gdocs_viewer`
 - Upload to owncloud/apps
+- Check the Permissions: `lib/private/mimetypes.list.php`
 - Activate
+
+
+
+Update Owncloud / App not work after OC Update:
+---------
+Please check the Permissions for writing the `mimetypes.list.php` (`lib/private/mimetypes.list.php`) to enable .gsheet, .gdoc, .gslides support.
+Then delete the file `installed` located in the app-folder `sys` (`apps/files_gdocs_viewer/sys/`).
 
 
 [0]: https://github.com/Frank1604/files_gpxviewer_extended
